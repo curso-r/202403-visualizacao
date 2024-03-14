@@ -3,10 +3,6 @@
 
 ## Informações importantes
 
-- [Clique
-  aqui](https://github.com/curso-r/202403-visualizacao/archive/refs/heads/main.zip)
-  para baixar o material do curso.
-
 - Nosso blog: <https://curso-r.com/blog/>
 
 - Nosso fórum: <https://discourse.curso-r.com/>
@@ -29,8 +25,9 @@ Fora do horário de aula ou monitoria:
 
 ## Slides
 
-| Slide |
-|:------|
+| Slide                                                                           |
+|:--------------------------------------------------------------------------------|
+| [slides.html](https://curso-r.github.io/202403-visualizacao/slides/slides.html) |
 
 ## Scripts utilizados em aula
 

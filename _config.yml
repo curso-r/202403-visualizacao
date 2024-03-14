@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 logo: assets/logo.png
 title: Visualização de dados
-show_downloads: true
-link_material: 'https://github.com/curso-r/202403-visualizacao/archive/refs/heads/main.zip'
+show_downloads: false

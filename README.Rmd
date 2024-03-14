@@ -3,7 +3,7 @@ output: github_document
 params:
   turma: 202403-visualizacao
   nome_curso: Visualização de dados
-  download_material: 'TRUE'
+  download_material: 'FALSE'
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
