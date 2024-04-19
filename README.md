@@ -36,8 +36,26 @@ Fora do horário de aula ou monitoria:
 
 ## Práticas
 
-| Exemplo |
-|:--------|
+| Exemplo                                                                                                                             |
+|:------------------------------------------------------------------------------------------------------------------------------------|
+| [\_publish.yml](https://curso-r.github.io/202403-visualizacao/praticas/_publish.yml)                                                |
+| [aula-1.R](https://curso-r.github.io/202403-visualizacao/praticas/aula-1.R)                                                         |
+| [aula-2.R](https://curso-r.github.io/202403-visualizacao/praticas/aula-2.R)                                                         |
+| [aula-3.R](https://curso-r.github.io/202403-visualizacao/praticas/aula-3.R)                                                         |
+| [aula-4.R](https://curso-r.github.io/202403-visualizacao/praticas/aula-4.R)                                                         |
+| [aula-5.R](https://curso-r.github.io/202403-visualizacao/praticas/aula-5.R)                                                         |
+| [aula-6-parte-2.R](https://curso-r.github.io/202403-visualizacao/praticas/aula-6-parte-2.R)                                         |
+| [aula-6.R](https://curso-r.github.io/202403-visualizacao/praticas/aula-6.R)                                                         |
+| [duvida-ana-media-movel.R](https://curso-r.github.io/202403-visualizacao/praticas/duvida-ana-media-movel.R)                         |
+| [duvida_fabi.R](https://curso-r.github.io/202403-visualizacao/praticas/duvida_fabi.R)                                               |
+| [grafico-correlacao.R](https://curso-r.github.io/202403-visualizacao/praticas/grafico-correlacao.R)                                 |
+| [grafico-dendograma.R](https://curso-r.github.io/202403-visualizacao/praticas/grafico-dendograma.R)                                 |
+| [grafico-heatmap.R](https://curso-r.github.io/202403-visualizacao/praticas/grafico-heatmap.R)                                       |
+| [grafico-piramide-etaria-por-genero.R](https://curso-r.github.io/202403-visualizacao/praticas/grafico-piramide-etaria-por-genero.R) |
+| [grafico-pizza.R](https://curso-r.github.io/202403-visualizacao/praticas/grafico-pizza.R)                                           |
+| [grafico-rosa-dos-ventos.R](https://curso-r.github.io/202403-visualizacao/praticas/grafico-rosa-dos-ventos.R)                       |
+| [index.html](https://curso-r.github.io/202403-visualizacao/praticas/index.html)                                                     |
+| [index.qmd](https://curso-r.github.io/202403-visualizacao/praticas/index.qmd)                                                       |
 
 ## Lição de casa
 
