@@ -1,0 +1,4 @@
+- source: index.qmd
+  quarto-pub:
+    - id: 4e8c13bb-57a5-403f-8e14-b032a0b64f7e
+      url: 'https://beamilz.quarto.pub/exemplo-de-echart-38f2'

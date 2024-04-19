@@ -1,0 +1,25 @@
+---
+title: "Exemplo de echart"
+format: html
+editor: visual
+knitr:
+  opts_chunk: 
+    message: false
+    warning: false
+embed-resources: true
+---
+```{r}
+library(tidyverse)
+library(echarts4r)
+```
+
+```{r}
+starwars |> 
+  mutate(sex = tidyr::replace_na(sex, "Sem informação")) |> 
+  group_by(sex) |> 
+  e_chart(x = height) |> 
+  e_scatter(serie = mass, symbol_size = 10) |> 
+  e_tooltip() |> 
+  e_axis_labels(y = "Massa", x = "Altura")
+```
+
